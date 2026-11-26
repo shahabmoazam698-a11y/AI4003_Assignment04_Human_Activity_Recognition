@@ -1,0 +1,4 @@
+Best checkpoint epoch: 16
+Best validation loss: 0.095586
+Test samples: 2947
+Test accuracy: 90.16%
